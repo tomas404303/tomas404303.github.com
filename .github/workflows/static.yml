@@ -4,42 +4,42 @@
     <meta charset="UTF-8">
     <title> CV Tomas Rodriguez Rivera</title>
 </head>
-<body style="font-family: 'Times New Roman', Times, serif;font-weight: 600;margin: 0;">
-    <header style="background-color: #0c55c9;color:antiquewhite;text-align:center;padding: 16px;">
+<body style="font-family:'Times New Roman',Times,serif;font-weight:600;margin:0;">
+    <header style="background-color:#0c55c9;color:antiquewhite;text-align:center;padding:16px;">
         
-        <h1 style="display: inline-block;width: 600px;">CV Tomas Rodriguez Rivera</h1>
-        <p style="display: inline-block;width: 600px;">system technique</p>
+        <h1 style="display:inline-block;width:600px;">CV Tomas Rodriguez Rivera</h1>
+        <p style="display:inline-block;width:600px;">system technique</p>
     </header>
-    <div style="background-color: aquamarine;color:rgb(8, 8, 8);text-align: left;font-weight: 200;padding: 10px;">
+    <div style="background-color:aquamarine;color:rgb(8, 8, 8);text-align:left;font-weight:200;padding:10px;">
 I am a passionate Systems Technician with solid knowledge in the implementation, maintenance, and support of computer systems. My focus is on ensuring operational efficiency and process continuity through technological solutions. I have interpersonal skills that allow me to collaborate effectively in multidisciplinary teams and communicate technical solutions clearly.
 </style></div>
 <selection>
-    <div style="width: 800px;margin-left: auto;margin-right: auto;margin-top: 20px;"></div>
-            <div style="margin-left: 20px;margin-top: 20px;margin-right: 20px;">
-                <div style="display:inline-block;width: 30%;">      
-                <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(12, 12, 11);">contact information</h3>
+    <div style="width:800px;margin-left:auto;margin-right:auto;margin-top:20px;"></div>
+            <div style="margin-left:20px;margin-top:20px;margin-right:20px;">
+                <div style="display:inline-block;width:30%;">      
+                <h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:rgb(12, 12, 11);">contact information</h3>
                 <div>
-                    <ul style="margin-top: 30px;padding: 0px;">
-                            <li style="margin-top: 16px;">Tomas Enrique Rodriguez Rivera</li>
-                            <li style="margin-top: 16px;">Ibagué, Tolima 730001</li>
-                            <li style="margin-top: 16px;">tomas202mejor@gmail.com</li>
-                            <li style="margin-top: 16px;">+57 322 9138167</li>
-                            <li style="margin-top: 16px;">Willing to travel: yes</li>
-                            <li style="margin-top: 16px;">Date of birth: 2005-01-20</li>
-                            <li style="margin-top: 16px;">Industry: Technology</li>
-                            <li style="margin-top: 16px;">Driver's license: A1</li>
+                    <ul style="margin-top:30px;padding:0px;">
+                            <li style="margin-top:16px;">Tomas Enrique Rodriguez Rivera</li>
+                            <li style="margin-top:16px;">Ibagué, Tolima 730001</li>
+                            <li style="margin-top:16px;">tomas202mejor@gmail.com</li>
+                            <li style="margin-top:16px;">+57 322 9138167</li>
+                            <li style="margin-top:16px;">Willing to travel:yes</li>
+                            <li style="margin-top:16px;">Date of birth:2005-01-20</li>
+                            <li style="margin-top:16px;">Industry:Technology</li>
+                            <li style="margin-top:16px;">Driver's license:A1</li>
                     </ull>
                 </div>
             </div>
-            <div style="display:inline-block;width: 60%;">
-                <div style="margin-left: 400px;">
+            <div style="display:inline-block;width:60%;">
+                <div style="margin-left:400px;">
                 <img src="tomas.jpeg" height="300">
                 </div>
             </div>  
         </div>
-    <div style="margin-left: 20px;margin-top: 20px;margin-right: 60px;">
-        <div style="display:inline-block;width: 60%;">
-            <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(12, 12, 11);">education</h3>
+    <div style="margin-left:20px;margin-top:20px;margin-right:60px;">
+        <div style="display:inline-block;width:60%;">
+            <h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:rgb(12, 12, 11);">education</h3>
             <div>
                 <dl>
                     <dt>Sena systems technician-Ibague</dt>
@@ -49,23 +49,23 @@ I am a passionate Systems Technician with solid knowledge in the implementation,
                 </dl>
             </div>
         </div>
-        <div style="display:inline-block;width: 30%;">
-            <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(12, 12, 11);">certificates</h3>
-            <ul style="margin-top: 30px;padding: 0px;">
-                <li style="margin-top: 16px;">
+        <div style="display:inline-block;width:30%;">
+            <h3 style="font-family:"Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:rgb(12, 12, 11);">certificates</h3>
+            <ul style="margin-top:30px;padding:0px;">
+                <li style="margin-top:16px;">
                     <a href="https://www.calameo.com/read/007530568e7c83e802ed5">Sena certificate as a systems technician</a>
                 </li>
-                <li style="margin-top: 16px;">
+                <li style="margin-top:16px;">
                     <a href="https://www.calameo.com/read/0075305682b6dc937a6cc">first python certificate with the university of los andes</a>
                 </li>
-                <li style="margin-top: 16px;">
+                <li style="margin-top:16px;">
                     <a href="https://www.calameo.com/read/0075305684734f1358e4c">second python certificate with Codigofacilito</a>
                 </li>
             </ul>
         </div>
     </div>
-    <div style="width: 700px;margin-top: 70px;margin-left: 20px">
-        <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(12, 12, 11);"> work experience</h3>
+    <div style="width:700px;margin-top:70px;margin-left:20px">
+        <h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:rgb(12, 12, 11);"> work experience</h3>
         <div>
             <dl>
                 <dt>systems technician</dt>
@@ -79,26 +79,26 @@ I am a passionate Systems Technician with solid knowledge in the implementation,
                     was a commercial advisor for the Mana super market in charge of supplying,receiving products and advising customers regarding our products</dd>
             </dl>
         </div>
-        <div style="margin-top: 70px;">
-            <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(12, 12, 11);">Skills and knowledge</h3>
+        <div style="margin-top:70px;">
+            <h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:rgb(12, 12, 11);">Skills and knowledge</h3>
             <div>
-                <ul style="margin-top: 30px;padding: 0px;">
-                    <li style="margin-top: 16px;"> • I learn fast</li>
-                    <li style="margin-top: 16px;"> • SQL databases </li>
-                    <li style="margin-top: 16px;"> • Software knowledge (2 years) </li>
-                    <li style="margin-top: 16px;"> • Hardware knowledge (2 years) </li>
-                    <li style="margin-top: 16px;"> • Knowledge of networks (2 years) </li>
-                    <li style="margin-top: 16px;"> • Great attitude</li>
-                    <li style="margin-top: 16px;"> • great management of technology</li>
-                    <li style="margin-top: 16px;"> • Leadership</li>
-                    <li style="margin-top: 16px;"> • Cash management</li>
-                    <li style="margin-top: 16px;"> • Maintenance</li>
-                    <li style="margin-top: 16px;"> •Microsoft Office</li>
-                    <li style="margin-top: 16px;"> •Microsoft Office</li>
-                    <li style="margin-top: 16px;"> • Customer service</li>
-                    <li style="margin-top: 16px;"> • Teamwork</li>
-                    <li style="margin-top: 16px;"> • Python software development</li>
-                    <li style="margin-top: 16px;"> • Web developer</li>
+                <ul style="margin-top:30px;padding:0px;">
+                    <li style="margin-top:16px;"> • I learn fast</li>
+                    <li style="margin-top:16px;"> • SQL databases </li>
+                    <li style="margin-top:16px;"> • Software knowledge (2 years) </li>
+                    <li style="margin-top:16px;"> • Hardware knowledge (2 years) </li>
+                    <li style="margin-top:16px;"> • Knowledge of networks (2 years) </li>
+                    <li style="margin-top:16px;"> • Great attitude</li>
+                    <li style="margin-top:16px;"> • great management of technology</li>
+                    <li style="margin-top:16px;"> • Leadership</li>
+                    <li style="margin-top:16px;"> • Cash management</li>
+                    <li style="margin-top:16px;"> • Maintenance</li>
+                    <li style="margin-top:16px;"> •Microsoft Office</li>
+                    <li style="margin-top:16px;"> •Microsoft Office</li>
+                    <li style="margin-top:16px;"> • Customer service</li>
+                    <li style="margin-top:16px;"> • Teamwork</li>
+                    <li style="margin-top:16px;"> • Python software development</li>
+                    <li style="margin-top:16px;"> • Web developer</li>
                 </ul>
             </div>
         </div>
